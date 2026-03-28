@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Unlimitade Storage</string>
+    <string name="title_activity_main">Unlimitade Storage</string>
+    <string name="package_name">com.unlimitade.storage</string>
+    <string name="custom_url_scheme">com.unlimitade.storage</string>
+</resources>
